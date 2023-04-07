@@ -1,0 +1,22 @@
+.tShirt img{
+    width: 230px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tShirt{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+button{
+    background-color: rgb(69, 80, 234);
+    color: white;
+    font-weight: 700;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid blue;
+}
